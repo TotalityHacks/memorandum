@@ -1,0 +1,2 @@
+# memorandum
+HTML email templates.
